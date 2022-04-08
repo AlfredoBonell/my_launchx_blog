@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://alfredobonell.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Aventura Launch-X</title>
+      <link>https://alfredobonell.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alfredobonell.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description> Python Jupyter Notebook GitHub Toma de requerimientos HTML 5 CSS 3 JavaScript Consumir un API Frameworks (Angular, Vue)  </description>
+    </item>
+    
+    <item>
       <title>Valores principales que un desarrollador de software necesita tener</title>
       <link>https://alfredobonell.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
